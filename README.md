@@ -1,4 +1,4 @@
-### Olá eu sou o Fred desenvolvedor web e  estudante mobille(flutter)
+### Olá eu sou o Fred desenvolvedor mobille(flutter)
 
 
 <div align="center">
